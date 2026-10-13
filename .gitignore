@@ -1,0 +1,5 @@
+data/*.parquet
+alerts*.csv
+chart.png
+__pycache__/
+.venv/

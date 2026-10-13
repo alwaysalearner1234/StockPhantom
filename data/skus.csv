@@ -1,0 +1,121 @@
+sku_id,category,velocity_tier,base_rate,mrp
+SKU0000,Staples,slow,0.616,89.0
+SKU0001,Snacks,medium,2.303,339.0
+SKU0002,Staples,medium,1.526,219.0
+SKU0003,Beverages,slow,0.584,199.0
+SKU0004,Dairy,slow,0.359,149.0
+SKU0005,Personal Care,fast,6.799,129.0
+SKU0006,Household,slow,0.588,99.0
+SKU0007,Beverages,slow,0.181,469.0
+SKU0008,Personal Care,medium,2.609,89.0
+SKU0009,Personal Care,slow,0.483,249.0
+SKU0010,Staples,medium,1.487,109.0
+SKU0011,Dairy,medium,0.987,189.0
+SKU0012,Snacks,slow,0.481,139.0
+SKU0013,Personal Care,medium,3.405,69.0
+SKU0014,Staples,fast,14.113,189.0
+SKU0015,Staples,slow,0.19,179.0
+SKU0016,Beverages,medium,1.765,119.0
+SKU0017,Snacks,fast,5.652,49.0
+SKU0018,Dairy,slow,0.271,389.0
+SKU0019,Household,slow,0.404,109.0
+SKU0020,Staples,slow,0.408,29.0
+SKU0021,Snacks,slow,0.207,39.0
+SKU0022,Household,slow,0.391,129.0
+SKU0023,Personal Care,slow,0.141,149.0
+SKU0024,Staples,medium,1.856,169.0
+SKU0025,Staples,slow,0.203,59.0
+SKU0026,Personal Care,medium,2.691,99.0
+SKU0027,Baby Care,medium,3.305,259.0
+SKU0028,Beverages,medium,3.801,49.0
+SKU0029,Beverages,medium,1.861,89.0
+SKU0030,Beverages,fast,15.568,139.0
+SKU0031,Staples,slow,0.158,79.0
+SKU0032,Snacks,slow,0.603,139.0
+SKU0033,Staples,slow,0.246,59.0
+SKU0034,Personal Care,medium,3.455,259.0
+SKU0035,Snacks,slow,0.289,109.0
+SKU0036,Snacks,slow,0.199,89.0
+SKU0037,Beverages,slow,0.722,499.0
+SKU0038,Dairy,slow,0.454,389.0
+SKU0039,Household,slow,0.349,179.0
+SKU0040,Household,medium,3.798,39.0
+SKU0041,Staples,slow,0.19,89.0
+SKU0042,Personal Care,slow,0.221,59.0
+SKU0043,Household,slow,0.441,109.0
+SKU0044,Staples,medium,1.222,219.0
+SKU0045,Staples,slow,0.58,49.0
+SKU0046,Staples,slow,0.595,39.0
+SKU0047,Staples,fast,16.986,79.0
+SKU0048,Snacks,medium,2.921,409.0
+SKU0049,Snacks,slow,0.098,149.0
+SKU0050,Personal Care,fast,5.965,149.0
+SKU0051,Baby Care,slow,0.752,99.0
+SKU0052,Beverages,slow,0.093,359.0
+SKU0053,Dairy,slow,0.248,109.0
+SKU0054,Personal Care,slow,0.514,79.0
+SKU0055,Snacks,medium,2.886,29.0
+SKU0056,Beverages,medium,1.557,49.0
+SKU0057,Household,fast,4.932,89.0
+SKU0058,Staples,slow,0.303,99.0
+SKU0059,Baby Care,medium,1.711,109.0
+SKU0060,Staples,fast,4.776,149.0
+SKU0061,Staples,slow,0.57,139.0
+SKU0062,Snacks,slow,0.71,69.0
+SKU0063,Staples,medium,1.558,789.0
+SKU0064,Personal Care,medium,0.958,49.0
+SKU0065,Dairy,fast,16.948,29.0
+SKU0066,Dairy,slow,0.785,79.0
+SKU0067,Household,slow,0.641,109.0
+SKU0068,Beverages,slow,0.697,19.0
+SKU0069,Snacks,slow,0.272,89.0
+SKU0070,Beverages,medium,1.544,39.0
+SKU0071,Snacks,medium,2.014,49.0
+SKU0072,Snacks,slow,0.74,579.0
+SKU0073,Snacks,slow,0.691,179.0
+SKU0074,Household,slow,0.536,69.0
+SKU0075,Household,medium,3.023,109.0
+SKU0076,Personal Care,fast,14.16,239.0
+SKU0077,Baby Care,fast,17.424,79.0
+SKU0078,Personal Care,slow,0.652,49.0
+SKU0079,Snacks,slow,0.148,159.0
+SKU0080,Personal Care,slow,0.416,159.0
+SKU0081,Household,slow,0.434,19.0
+SKU0082,Baby Care,fast,5.639,459.0
+SKU0083,Personal Care,medium,3.278,259.0
+SKU0084,Snacks,slow,0.629,159.0
+SKU0085,Snacks,medium,1.304,169.0
+SKU0086,Baby Care,medium,2.027,459.0
+SKU0087,Personal Care,slow,0.642,259.0
+SKU0088,Snacks,slow,0.597,259.0
+SKU0089,Staples,slow,0.539,29.0
+SKU0090,Personal Care,slow,0.089,399.0
+SKU0091,Dairy,medium,2.267,59.0
+SKU0092,Snacks,slow,0.643,39.0
+SKU0093,Baby Care,slow,0.284,189.0
+SKU0094,Staples,slow,0.559,139.0
+SKU0095,Staples,slow,0.101,69.0
+SKU0096,Staples,slow,0.223,89.0
+SKU0097,Personal Care,fast,4.076,259.0
+SKU0098,Personal Care,slow,0.252,19.0
+SKU0099,Staples,slow,0.748,149.0
+SKU0100,Personal Care,slow,0.109,69.0
+SKU0101,Staples,slow,0.617,139.0
+SKU0102,Dairy,medium,3.151,59.0
+SKU0103,Snacks,slow,0.786,39.0
+SKU0104,Staples,slow,0.11,109.0
+SKU0105,Household,medium,1.094,79.0
+SKU0106,Baby Care,medium,3.309,109.0
+SKU0107,Personal Care,fast,17.244,89.0
+SKU0108,Personal Care,slow,0.547,329.0
+SKU0109,Staples,slow,0.371,699.0
+SKU0110,Staples,fast,7.893,319.0
+SKU0111,Beverages,slow,0.537,159.0
+SKU0112,Beverages,medium,2.683,49.0
+SKU0113,Staples,medium,2.317,329.0
+SKU0114,Personal Care,slow,0.585,99.0
+SKU0115,Personal Care,medium,3.32,319.0
+SKU0116,Beverages,slow,0.34,149.0
+SKU0117,Household,slow,0.743,119.0
+SKU0118,Beverages,slow,0.306,59.0
+SKU0119,Beverages,fast,5.009,319.0

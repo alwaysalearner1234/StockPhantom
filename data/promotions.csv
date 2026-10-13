@@ -1,0 +1,16 @@
+start_date,sku_id,store_scope,discount_pct
+2026-01-19,SKU0098,2 stores,0.2
+2026-07-15,SKU0020,4 stores,0.3
+2026-04-12,SKU0049,6 stores,0.2
+2026-04-26,SKU0092,4 stores,0.25
+2026-01-07,SKU0040,6 stores,0.3
+2026-02-26,SKU0066,7 stores,0.2
+2026-05-07,SKU0057,8 stores,0.2
+2026-05-14,SKU0086,2 stores,0.3
+2026-08-16,SKU0101,6 stores,0.2
+2026-04-03,SKU0105,8 stores,0.3
+2026-04-04,SKU0046,6 stores,0.15
+2026-01-07,SKU0021,4 stores,0.2
+2026-03-26,SKU0050,2 stores,0.2
+2026-02-18,SKU0033,6 stores,0.3
+2026-07-12,SKU0061,3 stores,0.1
